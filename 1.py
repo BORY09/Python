@@ -1,0 +1,6 @@
+print("Podaj swoje imię: ")
+name = input()
+print("Podaj swój więk: ")
+age = int(input())
+age2 = str(100 - age+ 2022)
+print(name + " osiągniesz 100 lat w " + age2 + " roku")

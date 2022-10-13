@@ -1,0 +1,2 @@
+def CowsAndBulls(num):
+    
